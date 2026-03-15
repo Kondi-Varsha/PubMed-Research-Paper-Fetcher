@@ -1,4 +1,4 @@
-# Get Papers List — PubMed CLI Tool
+# PubMed Research Paper Fetcher
 
 A command-line tool to fetch PubMed research papers based on a user-defined query, and filter papers with at least one non-academic author affiliated with a pharmaceutical or biotech company. Results can be saved as a CSV.
 
